@@ -10,7 +10,7 @@ module.exports = {
     development: {
         client: "sqlite3",
         connection: {
-            filename: "./database/potluck-3.db3",
+            filename: "./database/DNDUser.db3",
         },
         useNullAsDefault: true,
         pool: {
